@@ -1,0 +1,33 @@
+[
+  {
+    "id": "102",
+    "paciente": " Paciente Demo Uno ",
+    "documento": "DEMO-PAC-001",
+    "especialidad": "PEDIATRÍA",
+    "fecha": "14/08/2026",
+    "hora": "10.00",
+    "confirmado": "si",
+    "medicoId": 1
+  },
+  {
+    "id": 103,
+    "paciente": "Paciente Demo Dos",
+    "documento": "DEMO-PAC-002",
+    "especialidad": " odontología ",
+    "fecha": "2026-08-15",
+    "hora": "9:30",
+    "confirmado": true,
+    "observaciones": "Control anual",
+    "medicoId": 2
+  },
+  {
+    "id": "dato-invalido",
+    "paciente": "Registro rechazado",
+    "documento": "DEMO-INVALIDO",
+    "especialidad": "CLÍNICA MÉDICA",
+    "fecha": "16/08/2026",
+    "hora": "11.00",
+    "confirmado": "no",
+    "medicoId": 3
+  }
+]
